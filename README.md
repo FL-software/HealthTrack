@@ -26,3 +26,5 @@ Gerenciar Atividades Físicas: Dois botões, um com três campos (atividade fís
 Gerenciar Atividades Físicas: Dois botões, um com três campos (alimentação, data e hora) e o outro botão mostra a tabela com todos os registros feitos (com dois ícones, um de editar e outro de deletar).
 
 Calculadora IMC: Mostra o IMC atual de acordo com o peso e altura cadastrados.
+
+Desenvolvido por Bruno Trindade e Leonardo Maia
