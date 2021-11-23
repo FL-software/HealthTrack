@@ -1,4 +1,4 @@
-# Health-Track
+# Health Track
 Projeto para acompanhamento da saúde de alunos.
 
 Tela de Login com campo para e-mail e senha, botão para logar e dois links, um para cadastrar e outro para trocar a senha.
