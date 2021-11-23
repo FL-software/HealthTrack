@@ -28,3 +28,6 @@ Gerenciar Atividades Físicas: Dois botões, um com três campos (alimentação,
 Calculadora IMC: Mostra o IMC atual de acordo com o peso e altura cadastrados.
 
 Desenvolvido por Bruno Trindade e Leonardo Maia
+
+![image](https://user-images.githubusercontent.com/92823045/143142244-a8d8d5ac-9a19-4575-9c74-40fb200d1c17.png)
+
